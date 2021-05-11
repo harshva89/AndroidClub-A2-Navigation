@@ -1,3 +1,5 @@
 # Learning Navigation
 
-<video src="Screenshots/demo.mp4">
+<video controls>
+  <source src="Screenshots/demo.mp4" type="video/mp4">
+</video>

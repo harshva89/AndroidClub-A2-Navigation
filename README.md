@@ -4,6 +4,7 @@ Aim of this basic project was to learn fundamentals of react native. How screens
 
 ## Navigation using Stack Navigator:
 
-<video height="500" controls>
-  <source src="Screenshots/stackdemo.mp4" type="video/mp4">
-</video>
+
+
+https://user-images.githubusercontent.com/63179137/124124963-b285e100-da96-11eb-9bd0-4563af6838d1.mp4
+

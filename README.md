@@ -1,6 +1,6 @@
-# AndroidClub-A2-Navigation
+# AndroidClub-Assignment-2-Navigation
 
-Aim of this basic project was to learn fundamentals of react native. How screens are displayed and navigated.
+Aim of this basic project was to learn fundamentals of react native, how screens are displayed and navigated using Stack navigator, bottom tab navigator and drawer navigator.
 
 ## Navigation using Stack Navigator:
 
